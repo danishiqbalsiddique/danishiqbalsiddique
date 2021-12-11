@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @danishiqbalsiddique
+- 👋 Hi, I’m  Danishiqbalsiddique
 - 👀 I’m interested in ...coading
 - 🌱 I’m currently learning ...python,java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Internship
 - 📫 How to reach me ...on socal media like:- danishiqbal9599015@gmail.com  | Linkedin : Danish-Iqbal-57a9aa184
 
 <!---
